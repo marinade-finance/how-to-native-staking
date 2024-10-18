@@ -1,4 +1,4 @@
-# How to: Marinad Native Staking
+# How to: Marinade Native Staking
 
 This tutorial is made for users who do not wish to interact with Marinade's app and still want to deposit SOL, or for apocapyltic events - to allow Marinade Native users to get out of staking even if Marinade's UI/BE services were turned off for whatever reason.
 
