@@ -111,7 +111,7 @@ Now, in case the account is not already in the process of being de-activated (e.
 solana deactivate-stake --keypair "usb://ledger?key=0" C6kBqxp2tvxvMaXz2FPN1f1iiQJD3R25N8kdM9PnxVXP
 ```
 
-Solana has cool down period of 1 epoch. So just wait for the end of the epoch (you can see the progress using `solana epoch-info`). Your account will be fully de-activated and you can withdraw as [#manually-withdrawing-fully de-activated-account](before):
+Solana has cool down period of 1 epoch. So just wait for the end of the epoch (you can see the progress using `solana epoch-info`). Your account will be fully de-activated and you can withdraw as [before](#manually-withdrawing-fully-de-activated-account):
 ```bash
 solana withdraw-stake --keypair "usb://ledger?key=0" C6kBqxp2tvxvMaXz2FPN1f1iiQJD3R25N8kdM9PnxVXP YOUR-PUBLIC-KEY ALL
 ```
