@@ -96,7 +96,7 @@ solana withdraw-stake --keypair "usb://ledger?key=0" 4mFGSGdeMZsfnAh58g9PpxFN5Kt
 
 > Tip: Notice the `ALL` at the end of the command. This can be replaced by a number and you can control how much you are withdrawing.
 
-### Manually withdrawing activated account
+### Manually withdrawing activated/activating account
 The account which IS activated or activating can be withdrawn in the following steps:
 
 Regain the stake authority, so you can control the delegation state of the account:
